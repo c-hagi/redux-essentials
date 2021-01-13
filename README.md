@@ -71,3 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # redux-essentials-example-app
 # redux-essentials-example-app
 # redux-essentials
+# redux-essentials
